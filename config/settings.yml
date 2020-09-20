@@ -1,0 +1,4 @@
+plugins:
+  sort_by_topic_title_enabled:
+    default: true
+    client: true
